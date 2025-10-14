@@ -1,8 +1,8 @@
 {
   "name": "Vallora",
   "short_name": "Vallora",
-  "description": "Sistema web de gestão — versão PWA",
-  "start_url": "/",
+  "description": "Sistema web de gestão — Vallora",
+  "start_url": "https://vallora.online",
   "scope": "/",
   "display": "standalone",
   "background_color": "#ffffff",
