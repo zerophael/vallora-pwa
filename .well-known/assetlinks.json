@@ -1,1 +1,12 @@
-
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "vallora.online",
+      "sha256_cert_fingerprints": [
+        "24:48:0A:94:F4:C1:4B:50:E5:5E:4B:53:62:0B:ED:B7:65:F8:D6:99:13:68:78:53:C4:10:C8:2C:B9:4E:67:68"
+      ]
+    }
+  }
+]
